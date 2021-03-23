@@ -1,7 +1,4 @@
 package org.launchcode.javawebdevtechjobspersistent.models;
-
-import org.springframework.boot.autoconfigure.domain.EntityScan;
-
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
